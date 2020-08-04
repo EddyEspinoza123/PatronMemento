@@ -1,0 +1,6 @@
+C:\Users\EVOTEC S.A\source\repos\Patron\bin\Debug\Patron.exe.config
+C:\Users\EVOTEC S.A\source\repos\Patron\bin\Debug\Patron.exe
+C:\Users\EVOTEC S.A\source\repos\Patron\bin\Debug\Patron.pdb
+C:\Users\EVOTEC S.A\source\repos\Patron\obj\Debug\Patron.csprojAssemblyReference.cache
+C:\Users\EVOTEC S.A\source\repos\Patron\obj\Debug\Patron.exe
+C:\Users\EVOTEC S.A\source\repos\Patron\obj\Debug\Patron.pdb
